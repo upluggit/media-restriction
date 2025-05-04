@@ -1,0 +1,74 @@
+# Copyright (C) 2025 upluggit
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Media Restriction 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/media-restriction\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-26T00:53:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: media-restriction\n"
+
+#. Plugin Name of the plugin
+#: media-restriction.php
+#: includes/class-settings.php:62
+msgid "Media Restriction"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: media-restriction.php
+msgid "https://github.com/upluggit/media-restriction"
+msgstr ""
+
+#. Description of the plugin
+#: media-restriction.php
+msgid "Restrict media library access based on user roles"
+msgstr ""
+
+#. Author of the plugin
+#: media-restriction.php
+msgid "upluggit"
+msgstr ""
+
+#. Author URI of the plugin
+#: media-restriction.php
+msgid "https://github.com/upluggit"
+msgstr ""
+
+#: includes/class-settings.php:61
+#: templates/settings-page.php:17
+msgid "Media Access Restriction Settings"
+msgstr ""
+
+#: templates/settings-page.php:18
+msgid "Manage who can see what in the Media Library."
+msgstr ""
+
+#: templates/settings-page.php:24
+msgid "Restrict Media Access by Role"
+msgstr ""
+
+#: templates/settings-page.php:25
+msgid "Define which user roles should be restricted to viewing only their own media files."
+msgstr ""
+
+#: templates/settings-page.php:50
+msgid "Exclude Specific Users (Optional)"
+msgstr ""
+
+#: templates/settings-page.php:51
+msgid "Choose individual users who should be excluded from the restriction, even if they belong to a restricted role."
+msgstr ""
+
+#: templates/settings-page.php:68
+msgid "Save Changes"
+msgstr ""
+
+#: templates/settings-page.php:73
+msgid "Settings saved successfully"
+msgstr ""
