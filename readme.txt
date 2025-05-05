@@ -1,6 +1,6 @@
 === Media Restriction ===
 Contributors: upluggit
-Tags: media, restriction, access, roles
+Tags: media, restriction, access, roles, media library, users
 Requires at least: 5.0
 Tested up to: 6.8
 Stable tag: 1.0.1
