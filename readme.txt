@@ -1,9 +1,9 @@
 === Media Restriction ===
 Contributors: upluggit
-Tags: media, restriction, access, roles, media library, users
+Tags: media, restriction, access, roles, media library
 Requires at least: 5.0
 Tested up to: 6.8
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,6 +67,9 @@ No. The plugin only controls visibility in the media library — it doesn't modi
 1. Media restriction settings page.
 
 == Changelog ==
+= 1.0.3 =
+* removed extra tags
+
 = 1.0.2 =
 * added github action
 

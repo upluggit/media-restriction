@@ -3,7 +3,7 @@
  * Plugin Name: Media Restriction
  * Plugin URI: https://github.com/upluggit/media-restriction
  * Description: Restrict media library access based on user roles
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: upluggit 
  * Author URI: https://github.com/upluggit
  * Text Domain: media-restriction
@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Define plugin constants.
-define( 'MEDIA_RESTRICTION_VERSION', '1.0.2' );
+define( 'MEDIA_RESTRICTION_VERSION', '1.0.3' );
 define( 'MEDIA_RESTRICTION_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'MEDIA_RESTRICTION_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'MEDIA_RESTRICTION_PLUGIN_BASENAME', plugin_basename( __FILE__ ) );
